@@ -1,0 +1,7 @@
+{
+  "name": "24H – The Ephemeral Valentine Experience",
+  "description": "A time-restricted, proximity-based social experiment active only 48 hours a year. No profiles, no chat, just presence and aura.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
